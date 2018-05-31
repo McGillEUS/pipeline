@@ -1,0 +1,7 @@
+<tr>
+																			<td style="border-radius: 3px; width:205px;background-color:#c51f30; border: 3px; border-style:solid; border-color: #c51f30; font-size: 16px; border-radius: 5px;  padding-bottom:5px; padding-top:2px; font-family:'Roboto', sans-serif;  color:#000000;" valign="top" colspan="1"> 
+																					<a href="https://mcgilleus.ca/health" style="font-size: 16px; border-radius: 5px;  padding-bottom:5px;  padding-top: px; font-family: 'Roboto', 	sans-serif; padding-left:5px; color:#fff; margin-left:5px; text-decoration: none; padding-bottom:2px;"> 
+																						<img moz-do-not-send="true" src="http://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/white/png/128/heart.png" style="margin-top:2px;margin-right:5px;height:20px; width:20px; padding-right:5px;"></img>EUS Health
+																				</a>	
+																			</td>
+																		</tr>
